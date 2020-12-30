@@ -1,0 +1,36 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="channel" tvg-name="3palavrinhas" tvg-logo="https://i.imgur.com/vHYmA7B.png" group-title="Educativos",3 Palavrinhas
+https://livefocamundo.com:8081/8646/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ipgo.xyz/tv/actv/" tvg-name="retrocartoon2" tvg-logo="https://i.imgur.com/cXrWMbT.png" group-title="Classicos",Retro Cartoon 2
+https://stmv6.srvstm.com/cartoonr2/cartoonr2/chunklist_w2119708123.m3u8
+
+#EXTINF:-1 tvg-id="ipgo.xyz/tv/actv/" tvg-name="retrocartoon" tvg-logo="https://i.imgur.com/cXrWMbT.png" group-title="Classicos",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1565824325.m3u8
+
+#EXTINF:-1 tvg-id="kuriakos-kids.com/" tvg-name="kuriakoskids" tvg-logo="https://i.imgur.com/Xt6u3I3.png" group-title="Educativos",TV Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="reconsatradiotv.blogspot.com/" tvg-name="reconsatradiotv" tvg-logo="https://i.imgur.com/J1YVlhM.png" group-title="Educativos",TV ReconSAT Kids
+https://stmv1.srvif.com/reconsatkids/reconsatkids/chunklist_w1506861110.m3u8
+
+#EXTINF:-1 tvg-id="channel" tvg-name="tveduca" tvg-logo="https://i.imgur.com/94u4DMv.png" group-title="Educativos",TV Educa Esp
+https://5c483b9d1019c.streamlock.net/8032/8032/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="channel" tvg-name="gospelcartoon" tvg-logo="https://i.imgur.com/hBT9Jp1.png" group-title="Religiosos",Desenhos Gospel
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1382534616.m3u8
+
+#EXTINF:-1 tvg-id="channel" tvg-name="primeirocorte" tvg-logo="https://i.imgur.com/JW84oHI.png" group-title="CanaisTeste",Primeiro Corte BR
+https://livefocamundo.com:8081/8510/tracks-v1a1/mono.m3u8
